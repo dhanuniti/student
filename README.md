@@ -1,1 +1,2 @@
 # student
+Aimst student portal
